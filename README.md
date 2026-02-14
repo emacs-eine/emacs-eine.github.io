@@ -1,1 +1,3 @@
-# emacs-eine.github.io
+# emacs-eine
+
+Landing page for EINE.
